@@ -1,6 +1,6 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：suiyuan
-更新时间：2026-07-26
+更新时间：2026-08-02
 
 // 编写时，请至少包含“词条”、“通用词条”、“禁翻词条”、“正则表达式”这 4 个部分中的 1 个
 // 正则表达式区域外，使用引号包裹带有标点符号的原文词条
@@ -131,7 +131,9 @@ Dahlia：大丽花，
 Acheron：黄泉，
 Boothill：波提欧，
 Rappa：乱破，
-The Unshackled：不死途，
+Ashveil：不死途，
+La Mancha：拉曼查，
+
 
 //匹诺康尼
 
@@ -179,7 +181,7 @@ Helektra：海列屈拉，
 
 Sparxie：火花，
 Evanescia：绯英，
-Kukiye：朽叶，
+Kuchiba：朽叶，
 Nihilux：虚照，
 
 //npc
@@ -193,6 +195,8 @@ Mem：迷迷，
 Calypso：卡吕普索，
 Gnaeus：格奈乌斯，
 Polyxia：波吕茜亚，
+Mok Tok：末度，
+Hoolay：呼雷，
 
 Titan：泰坦，
 Passage：门径，
@@ -232,6 +236,28 @@ Trickery：诡计，
 Coin of Whimsy：翻飞之币，
 Zagreus：扎格列斯，
 
+//星神
+
+Aeon：星神，
+Akivili：开拓，
+Nanook：毁灭，
+Qlipoth：存护，
+Lan：巡猎，
+Nous：智识，
+Aha：欢愉，
+Elation：欢愉，
+Fuli：记忆，
+HooH：均衡，
+IX：虚无，
+Yaoshi：丰饶，
+Xipe：同谐，
+Idrila：纯美，
+Tayzzyronth：繁育，
+Mythus：神秘，
+Oroboros：贪饕，
+Terminus：终末，
+Long：不朽，
+
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
@@ -255,6 +281,7 @@ Corridor of Fading Echoes：残响回廊，
 Pillars of Creation：造物之柱，
 Restricted Zone：铁卫禁区，
 The Xianzhou Luofu：仙舟「罗浮」，
+Xianzhou：仙舟
 Central Starskiff Haven：星槎海中枢，
 Cloudford：流云渡，
 Exalting Sanctum：长乐天，
@@ -292,27 +319,10 @@ Graphia Academy：绘世学院，
 Dovebrook District：鸽川区，
 "World's End" Tavern=「世界尽头」酒馆，
 
-//星神
+//未实装地名
+Pier Point：庇尔波因特，
 
-Aeon：星神，
-Akivili：开拓，
-Nanook：毁灭，
-Qlipoth：存护，
-Lan：巡猎，
-Nous：智识，
-Aha：欢愉，
-Elation：欢愉，
-Fuli：记忆，
-HooH：均衡，
-IX：虚无，
-Yaoshi：丰饶，
-Xipe：同谐，
-Idrila：纯美，
-Tayzzyronth：繁育，
-Mythus：神秘，
-Oroboros：贪饕，
-Terminus：终末，
-Long：不朽，
+
 
 //剧情概念
 
@@ -342,6 +352,12 @@ IPC：公司
 Annihilation Gang：泯灭帮，
 Denizens of Abundance：丰饶民，
 Galaxy Rangers：巡海游侠，
+the family：家族，
+Oak Family：橡木家系，
+Alfalfa Family：苜宿草家系，
+Bloodhound Family：猎犬家系，
+Iris Family：鸢尾花家系，
+Nightingale Family：隐夜鸫家系，
 Garden of Recollection：流光忆庭，
 The Cremators：焚化工，
 History Fictionologists：虚构史学家，
