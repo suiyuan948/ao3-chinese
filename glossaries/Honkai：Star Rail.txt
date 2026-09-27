@@ -1,6 +1,6 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：suiyuan
-更新时间：2026-08-02
+更新时间：2026-09-27
 
 // 编写时，请至少包含“词条”、“通用词条”、“禁翻词条”、“正则表达式”这 4 个部分中的 1 个
 // 正则表达式区域外，使用引号包裹带有标点符号的原文词条
@@ -177,7 +177,7 @@ Cerydra：刻律德菈，
 Hysilens：海瑟音，
 Helektra：海列屈拉，
 
-//欢愉（？）
+//二相乐园
 
 Sparxie：火花，
 Evanescia：绯英，
@@ -186,7 +186,7 @@ Nihilux：虚照，
 
 //npc
 
-Zandar One Kuwabara=赞达尔·壹·桑原，
+“Zandar One Kuwabara”：赞达尔·壹·桑原，
 Lygus：来古士，
 Lycurgus：吕枯耳戈斯，
 Skott：斯科特，
@@ -256,7 +256,6 @@ Tayzzyronth：繁育，
 Mythus：神秘，
 Oroboros：贪饕，
 Terminus：终末，
-Long：不朽，
 
 
 通用词条
